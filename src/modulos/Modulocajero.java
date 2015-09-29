@@ -1,4 +1,4 @@
-package Modulos;
+package modulos;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;

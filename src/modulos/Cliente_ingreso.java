@@ -1,4 +1,4 @@
-package Modulos;
+package modulos;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
@@ -23,6 +23,8 @@ public class Cliente_ingreso extends JFrame {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
+					
+					
 					Cliente_ingreso frame = new Cliente_ingreso();
 					frame.setVisible(true);
 				} catch (Exception e) {

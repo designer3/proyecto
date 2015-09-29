@@ -1,4 +1,4 @@
-package Modulos;
+package modulos;
 
 public class Cliente {
 	

@@ -1,4 +1,4 @@
-package Modulos;
+package modulos;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
@@ -11,10 +11,11 @@ import javax.swing.JTextField;
 import javax.swing.JComboBox;
 import javax.swing.DefaultComboBoxModel;
 import javax.swing.JButton;
+
+import modulos.Cliente;
+
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-
-import Modulos.Cliente;
 
 public class Modulocliente extends JFrame implements ActionListener {
 
